@@ -2,7 +2,7 @@
 
 > Javascript library that provides common features for building callbacks/handlers/listeners.
 
-[![NPM](https://img.shields.io/npm/v/component.svg)](https://www.npmjs.com/package/component) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/component.svg)](https://www.npmjs.com/package/@a-g-d/callbackjs) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
