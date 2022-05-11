@@ -1,6 +1,6 @@
 {
   "name": "@a-g-d/callbackjs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Event Callbacks/Handlers/Listeners library for javascript/typescript",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
