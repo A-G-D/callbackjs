@@ -10,10 +10,10 @@
     "build": "microbundle",
     "dev": "microbundle watch"
   },
-  "repository": "github.com/A-G-D/callbackjs-callback",
+  "repository": "github.com/A-G-D/callbackjs",
   "author": "AGD <aloeverdulay@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/A-G-D/callbackjs-callback",
+  "homepage": "https://github.com/A-G-D/callbackjs",
   "devDependencies": {
     "@types/jest": "^27.5.0",
     "jest": "^28.1.0",
