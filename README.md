@@ -7,19 +7,19 @@
 ## Install
 
 ```bash
-npm install --save @callbackjs/callback
+npm install --save @a-g-d/callbackjs
 ```
 
 or
 
 ```bash
-yarn add @callbackjs/callback
+yarn add @a-g-d/callbackjs
 ```
 
 ## Usage
 
 ```ts
-import { Callback } from '@callbackjs/callback'
+import { Callback } from '@a-g-d/callbackjs'
 
 const callback = new Callback()
 

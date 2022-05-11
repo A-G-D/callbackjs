@@ -1,5 +1,5 @@
 {
-  "name": "@callbackjs/callback",
+  "name": "@a-g-d/callbackjs",
   "version": "0.1.0",
   "description": "Event Callbacks/Handlers/Listeners library for javascript/typescript",
   "main": "dist/index.js",
