@@ -1,15 +1,21 @@
 {
   "name": "@a-g-d/callbackjs",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Event Callbacks/Handlers/Listeners library for javascript/typescript",
-  "main": "dist/index.js",
-  "module": "dist/index.modern.js",
+  "exports": {
+    "require": "./dist/index.js",
+    "default": "./dist/index.modern.js"
+  },
+  "main": "./dist/index.js",
+  "module": "./dist/index.module.js",
+  "unpkg": "./dist/index.umd.js",
   "source": "src/index.ts",
   "scripts": {
     "test": "jest",
     "build": "microbundle",
     "dev": "microbundle watch"
   },
+  "types": "dist/index.d.ts",
   "repository": "github.com/A-G-D/callbackjs",
   "author": "AGD <aloeverdulay@gmail.com>",
   "license": "MIT",
